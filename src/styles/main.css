@@ -4,9 +4,32 @@
 
 
 :root {
-  --color-primary: #ec4755;
+  --color-primary: #2c449c;
   --color-secondary: #a12c34;
   --color-tertiaty: #99a0a3;
+}
+
+.text-primary{
+  color:#2c449c;
+}
+.bg-primary{
+  color:#FFFFFF;
+  background-color:#2c449c;;
+}
+.hover\:bg-border:hover {
+    --tw-bg-opacity: 1;
+    background-color: #0000ff !important;
+}
+a:hover {
+    border-color:  #0000ff !important;
+}
+
+.hover\:text-primary:hover {
+    color: #FFFFFF !important;
+}
+
+.border-primary {
+  border-color:#2c449c;
 }
 
 a { 

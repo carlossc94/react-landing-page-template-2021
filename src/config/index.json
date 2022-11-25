@@ -1,43 +1,38 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "Betania",
+    "logo": "/assets/images/betania.png"
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Divisiones",
+      "href": "divisiones"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Productos",
+      "href": "productos"
     },
     {
-      "name": "About",
-      "href": "about"
+      "name": "Catalogo",
+      "href": "catalogo"
+    },
+    {
+      "name": "Contacto",
+      "href": "sobre"
     }
   ],
-  "callToAction": {
-    "text": "Get started",
-    "href": "#"
-  },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Betania ",
+    "subtitle": "distribuidora del caribe.",
+    "description": "Somos una empresa 100% mexicana, gracias a nuestro proveedor NARESA, podemos ofrecer una amplia distribución de productos donde nuestros mercados con mayor impacto son del Agua potable, drenaje sanitarios, captación de aguas pluviales, instalaciones eléctricas subterráneas y actualmente al enfasis a estacionamientos públicos y privados. Gracias a nuestro proveedor aliado NARESA podemos ofrecerle productos de acuerdo a las necesidades del cliente.",
+    "img": "/assets/images/cancun1.jpg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:betania.distribuidor@gmail.com?subject=Quisiera mas informacion!"
     }
   },
   "product": {
@@ -56,29 +51,44 @@
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Productos",
+    "subtitle": "Nuestra linea de productos que manejamos actualmente",
+    "description": "Actualmente gracias a nuestro socio comercial NARESA, tenemos una amplia gama de productos que se destacan desde alcantarillado hasta el mobiliario urbano, siempre manteniéndonos con las más altas especificaciones de calidad y servicios y adaptándonos a los requerimientos de nuestros clientes.",
     "items": [
       {
-        "name": "React.js",
+        "name": "Alcantarillado",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "icon": "/assets/images/alcantarillado.jpg"
       },
       {
-        "name": "Tailwind",
+        "name": "Agua potable",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/aguapotable.jpg"
       },
       {
-        "name": "Next.js",
+        "name": "Domiciliarios",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/domiciliario.jpg"
       },
       {
-        "name": "Typescript",
+        "name": "Energia electrica y telefonia",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/energia.jpg"
+      },
+      {
+        "name": "Señalizacion vial",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/vial.jpg"
+      },
+      {
+        "name": "Carrocerias y tablas",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/carrocerias.jpg"
+      },
+      {
+        "name": "Mobiliario Urbano",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/urbano.jpg"
       }
     ]
   },
@@ -122,32 +132,17 @@
     ]
   },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "whatsapp": "https://api.whatsapp.com/send?phone=%2B529983143485",
+      "facebook": "https://www.facebook.com/betaniadelcaribe",
+      "email": "mailto:betania.distribuidor@gmail.com",
+      "telefono": "tel:+529983143485"
+    },
+    "imagesSocialMedia": {
+      "ws": "/assets/images/whatsapp.svg",
+      "fb": "/assets/images/facebook.svg",
+      "em": "/assets/images/email.svg",
+      "tel": "/assets/images/telephone.svg"
     }
   }
 }

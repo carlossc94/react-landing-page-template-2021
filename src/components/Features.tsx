@@ -6,7 +6,7 @@ const Features = () => {
   const { features } = config;
   const { title, subtitle, description, items: featuresList } = features;
   return (
-    <div className={`py-12 bg-background`} id="features">
+    <div className={`py-12 bg-background`} id="productos">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h2
@@ -23,15 +23,15 @@ const Features = () => {
         </div>
 
         <div className="mt-10">
-          <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
+          <dl className="space-y-10">
             {featuresList.map((feature) => (
               <div key={feature.name} className="relative">
                 <dt>
                   <div
-                    className={`absolute flex items-center justify-center h-12 w-12 rounded-md bg-background text-tertiary border-primary border-4`}
+                    className={`rounded-md bg-background text-tertiary border-primary border-4`}
                   >
                     <img
-                      className={`inline-block h-6 w-6 rounded-full`}
+                      className={`inline-block`}
                       src={feature.icon}
                       alt={feature.name}
                     />
