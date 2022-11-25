@@ -23,8 +23,8 @@
   ],
   "mainHero": {
     "title": "Betania ",
-    "subtitle": "distribuidora del caribe.",
-    "description": "Somos una empresa 100% mexicana, gracias a nuestro proveedor NARESA, podemos ofrecer una amplia distribución de productos donde nuestros mercados con mayor impacto son del Agua potable, drenaje sanitarios, captación de aguas pluviales, instalaciones eléctricas subterráneas y actualmente al enfasis a estacionamientos públicos y privados. Gracias a nuestro proveedor aliado NARESA podemos ofrecerle productos de acuerdo a las necesidades del cliente.",
+    "subtitle": "Distribuidora del caribe.",
+    "description": "Somos una empresa 100% mexicana, gracias a nuestro proveedor NARESA, podemos ofrecer una amplia distribución de productos donde nuestros mercados con mayor impacto son del Agua potable, drenaje de sanitarios, captación de aguas pluviales, instalaciones eléctricas subterráneas y actualmente al enfasis a estacionamientos públicos y privados. Gracias a nuestro proveedor aliado NARESA podemos ofrecerle productos de acuerdo a las necesidades del cliente.",
     "img": "/assets/images/cancun1.jpg",
     "primaryAction": {
       "text": "Get started",
@@ -36,17 +36,27 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Nuestras divisiones",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Urbanización",
+        "description": "Nuestra linea de productos dirigida a la urbanización es una de las mas extensas ya que se enfoca en abastacecer con todos los productos necesarios a las ramas de alcantarillado, agua potable, registros domiciliarios y mobiliario urbano, abarcando desde brocales, rejillas, coladeras, registros de varios tipos y usos, tapas para cajas de válvulas, además de mobiliario para la ciudad como bancas, postes para nomenclatura entre otros.",
+        "img": "/assets/images/urbanizacion.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Energía eléctrica y telefonía",
+        "description": "La línea de productos de energía eléctrica y telefonía se enfoca específicamente en la elaboración de tapas y registros para las instalaciones de cableado eléctrico y de telecomunicaciones, pudiendo adquirir desde registros de varios tamaños y diseños hasta tapas como las solicitadas por CFE o TELMEX.",
+        "img": "/assets/images/telefonia.jpg"
+      },
+      {
+        "title": "Señalización vial",
+        "description": "Esta es una sección en la cual es la más variada y extensa debido a la alta demanda de productos necesarios para la seguridad y señalización vial, los cuales van desde reductores de velocidad, vialetas, boyas, bolardos y conos hasta topes para cajones de estacionamiento, protectores de columnas y señalizadores de carriles entre otros. ",
+        "img": "/assets/images/senializacion.jpg"
+      },
+      {
+        "title": "Carrocerías y tablas",
+        "description": "En cuanto a esta sección se refiere, nos enfocamos en fabricar la plastitabla, la cual puede sustituir a las tablas de madera comúnmente utilizadas para cubrir los pisos de carrocerías de camiones o remolques, además de eliminar los problemas que estas presentan como el pandeo o hinchamiento debido a la humedad y otros factores. Además de contar con la linea de topes para andén de carga y descarga",
+        "img": "/assets/images/carroceria.jpg"
       }
     ]
   },
